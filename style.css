@@ -83,14 +83,15 @@ section {
    display: flex;
    justify-content: center;
    align-items: center;
+
 }
 
 .home-img img {
    margin-left: 10rem;
-   width: 28vw;
-   height: 40vw;
-   border-radius: 10%;
-   filter: contrast(130%);
+   width: 25vw;
+   height: 30vw;
+   border-radius: 5%;
+   filter: contrast(135%);
 
 }
 
